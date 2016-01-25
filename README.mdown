@@ -1,0 +1,6 @@
+1) Install AutoHotkey software into local machine by running installer from `.\install\`.
+2) Setup environment path to arena: `"C:\Program Files (x86)\Resolume Arena 4.1.0\"`.
+3) Start program Arena manually but not start any process yet, just prepare for playing.
+4) Run also `prepare-ahk.ahk` to prepare scripting engine for future scripts execution. Make sure an icon like `H` letter icon appreaed in system tray.
+5) Decide in what time you want to start the playing video and set it in `create_task.bat` (e.g.: set start_time=13:15).
+
